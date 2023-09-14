@@ -14,7 +14,7 @@ It contains all the basic algorithms and data structures implemented in Kotlin.
 - Queue
 - Hash Table
 - Heap
-- Trie
+- Tree
 - Graph
 
 ## Sorting Algorithm
