@@ -4,7 +4,7 @@ This repository is for those who are new to Kotlin and want to learn it.
 
 It contains all the basic algorithms and data structures implemented in Kotlin.
 
-<img src="./image/Night.webp">
+<img src="./image/Kotlin.jpg">
 
 ## Data Structures
 
